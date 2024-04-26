@@ -949,7 +949,7 @@ section {
   .hero-section {
     padding: 112px 0;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/people-office_tab.jpg);
+      url(../images/people-office_tablet.jpg);
   }
 
   @media screen and (min-device-pixel-ratio: 2),
@@ -957,7 +957,7 @@ section {
   (min-resolution: 2dppx) {
     .hero-section {
       background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(../images/people-office_tab_2x.jpg);
+        url(../images/people-office_tablet_2x.jpg);
     }
   }
 
